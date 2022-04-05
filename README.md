@@ -1,1 +1,4 @@
-Learning Git
+# Learning Git
+- git add
+- git commit
+- git push
